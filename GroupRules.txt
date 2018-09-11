@@ -1,0 +1,27 @@
+Assignment# 4 Programming: Note on group work.
+
+ For this assignment we will accept the assignment to be
+in groups of at most two people (that is, it is either 
+individual or done in pairs).
+
+If the assignment will be done in a group of 2, this has 
+to  be decided way ahead of the submission date. Groups
+need to be formed at least one week before the submission date. 
+In this case, the group formation deadline is November 28, 23:55.
+
+If you are doing your assignment individually or in a group of 2, 
+you need to self enroll on a group. 
+For this purpose, a group has been create called Group A4.
+We have also created a submission folder for these groups.
+
+Students will organize themselves into groups
+of 1 or 2 people, and then a unique submission per group will be received
+for assignment#4.
+
+Please add all group member names in all program files and report.
+
+
+
+
+
+
